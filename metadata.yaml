@@ -1,0 +1,37 @@
+_repo: Pikku-mies_42609
+_version: 0.1.0
+alternative_title: Le petit chose. Finnish
+contributor:
+  translator:
+    agent_name: Asp, Hanna
+    alias: Asp, Johanna Wilmelmiina
+    birthdate: 1868
+    deathdate: 1949
+    gutenberg_agent_id: '41770'
+    url: http://www.gutenberg.org/2009/agents/41770
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2013-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42609'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Finnish'
+title: Pikku mies
+url: http://www.gutenberg.org/ebooks/42609
